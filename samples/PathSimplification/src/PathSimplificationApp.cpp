@@ -253,5 +253,4 @@ void PathSimplificationApp::drawCurves(cairo::Context &ctx, Path2d path, float t
 }
 
 
-
 CINDER_APP_BASIC( PathSimplificationApp, RendererGl )
